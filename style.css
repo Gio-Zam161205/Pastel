@@ -7,7 +7,7 @@ body {
 }
 
 body {
-  background: #ee9ca7;
+  background: cyan;
 }
 
 #cake {
@@ -109,4 +109,5 @@ body {
   h1 {
     font-size: 1.4em;
   }
+
 }  
